@@ -19,8 +19,8 @@
 
 ####  Implementing a model training loop with hyperparameter adjustments based on the learning rate.
 
-<img src="./images/점진적_생성자.png" width="400px"></img>
-<img src="./images/점진적_판별자.png" width="400px"></img>
+<img src="./images/Progressive Generator.png" width="400px"></img>
+<img src="./images/Progressive Discriminator.png" width="400px"></img>
 
 ## Evaluation 
 
